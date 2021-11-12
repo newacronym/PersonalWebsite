@@ -264,7 +264,7 @@ ul li a:hover{
 .project1{
   width: 100%;
   height: auto;
-  background: #21364B;
+  background: #2B87B0;
 }
 .content{
   width: 50%;
@@ -277,8 +277,8 @@ ul li a:hover{
   padding: 30px 0 0 0;
 }
 .mainbtn{
-  color: #fff;
-  background: #4299ed;
+	color: black;
+    background: white;
   border-radius: 30px;
   padding: 16px 86px;
   text-align: center;
